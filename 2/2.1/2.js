@@ -1,0 +1,1 @@
+const alert = import('./1.js')
